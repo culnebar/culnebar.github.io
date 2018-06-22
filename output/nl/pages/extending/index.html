@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="nl">
+<html prefix="            og: http://ogp.me/ns# article: http://ogp.me/ns/article#     " vocab="http://ogp.me/ns" lang="nl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width">
 <title>Extending Nikola | CulNeBar</title>
 <link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (nl)" href="../../rss.xml">
 <link rel="canonical" href="https://example.com/nl/pages/extending/">
-<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="The Nikola Team">
+<!--[if lt IE 9]><script src="../../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><meta name="author" content="The Nikola Team">
 <meta property="og:site_name" content="CulNeBar">
 <meta property="og:title" content="Extending Nikola">
 <meta property="og:url" content="https://example.com/nl/pages/extending/">
@@ -39,63 +39,31 @@ RestExte">
 <link rel="alternate" hreflang="en" href="../../../pages/extending/">
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Ga door naar de hoofdinhoud</a>
+    <a href="#content" class="sr-only sr-only-focusable">Ga door naar de hoofdinhoud</a>
+    <div id="container">
+         
+    <header id="header"><h1 id="brand"><a href="https://example.com/nl/" title="CulNeBar" rel="home">
 
-<!-- Menubar -->
+        <span id="blog-title">CulNeBar</span>
+    </a></h1>
 
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
-<!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigatie</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="https://example.com/nl/">
-
-                <span id="blog-title">CulNeBar</span>
-            </a>
-        </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" role="navigation" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="../../archive.html">Archief</a>
-                </li>
-<li>
-<a href="../../categories/">Tags</a>
-                </li>
-<li>
-<a href="../../rss.xml">RSS-feed</a>
-
-                
-            </li>
-</ul>
-<ul class="nav navbar-nav navbar-right">
-<li>
-            </li>
+        
+        <div id="toptranslations">
+            <h2>Talen:</h2>
+            
+    <ul class="translations">
 <li><a href="https://example.com/" rel="alternate" hreflang="en">English</a></li>
-
-                
-                    
-    <li>
-    <a href="index.txt" id="sourcelink">Bron</a>
-    </li>
-
-                
-            </ul>
+    </ul>
 </div>
-<!-- /.navbar-collapse -->
-    </div>
-<!-- /.container -->
-</nav><!-- End of Menubar --><div class="container" id="content" role="main">
-    <div class="body-content">
-        <!--Body content-->
-        <div class="row">
-            
-            
-<article class="post- storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Extending Nikola</a></h1>
+
+        
+    <nav id="menu"><ul>
+<li><a href="../../archive.html">Archief</a></li>
+                <li><a href="../../categories/">Tags</a></li>
+                <li><a href="../../rss.xml">RSS-feed</a></li>
+    
+    
+    </ul></nav></header><main id="content"><article class="post- storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Extending Nikola</a></h1>
 
         
 
@@ -750,21 +718,16 @@ guarantee that sort of thing?</p>
     </div>
     
 
-</article>
-</div>
-        <!--End of body content-->
-
-        <footer id="footer">
-            Contents © 2018         <a href="mailto:culnebar@gmail.com">Cul</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+</article></main><footer id="footer"><p>Contents © 2018         <a href="mailto:culnebar@gmail.com">Cul</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
             
         </footer>
 </div>
-</div>
+    
+    
 
-
-            <script src="../../../assets/js/all-nocdn.js"></script><script src="../../../assets/js/colorbox-i18n/jquery.colorbox-nl.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("nl");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+        <script src="../../../assets/js/baguetteBox.min.js"></script><script>baguetteBox.run('a.reference', {
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});</script>
 </body>
 </html>
