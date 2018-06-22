@@ -10,44 +10,20 @@
   <lastmod>2018-06-22T15:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2012/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/2018/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-06-22T15:01:00Z</lastmod>
+  <lastmod>2018-06-22T15:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/blog/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/categories/cat_travel/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/demo/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/python/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/stupid/</loc>
@@ -71,15 +47,11 @@
  </url>
  <url>
   <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
+  <lastmod>2018-06-22T15:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/nl/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/nl/2012/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/nl/2018/</loc>
@@ -87,35 +59,15 @@
  </url>
  <url>
   <loc>https://example.com/nl/archive.html</loc>
-  <lastmod>2018-06-22T15:01:00Z</lastmod>
+  <lastmod>2018-06-22T15:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/nl/categories/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/nl/categories/blog/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/nl/categories/cat_nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/nl/categories/cat_travel/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/nl/categories/demo/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/nl/categories/nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/nl/categories/python/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/nl/categories/stupid/</loc>
@@ -210,10 +162,6 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://example.com/posts/my-first-post/" />
  </url>
  <url>
-  <loc>https://example.com/nl/posts/welcome-to-nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/pages/about-nikola/</loc>
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </url>
@@ -276,9 +224,5 @@
  <url>
   <loc>https://example.com/posts/my-first-post/</loc>
   <lastmod>2018-06-22T15:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
  </url>
 </urlset>
