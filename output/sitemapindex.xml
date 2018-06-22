@@ -14,6 +14,10 @@
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://example.com/categories/cat_travel.xml</loc>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://example.com/categories/demo.xml</loc>
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
@@ -24,6 +28,10 @@
  <sitemap>
   <loc>https://example.com/categories/python.xml</loc>
   <lastmod>2018-06-22T14:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://example.com/categories/stupid.xml</loc>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/demo/rss.xml</loc>
@@ -42,6 +50,10 @@
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://example.com/nl/categories/cat_travel.xml</loc>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://example.com/nl/categories/demo.xml</loc>
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
@@ -54,6 +66,10 @@
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://example.com/nl/categories/stupid.xml</loc>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://example.com/nl/galleries/demo/rss.xml</loc>
   <lastmod>2018-06-22T14:33:00Z</lastmod>
  </sitemap>
@@ -63,14 +79,14 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/nl/rss.xml</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2018-06-22T14:33:00Z</lastmod>
+  <lastmod>2018-06-22T15:01:00Z</lastmod>
  </sitemap>
 </sitemapindex>
